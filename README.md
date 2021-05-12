@@ -32,9 +32,6 @@
 
 
 <br/>
-![trophy](https://github-profile-trophy.vercel.app/?username=mithleshfantezie&theme=onedark)
-
-
 <br/>
 <br/>
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=mithleshfantezie.mithleshfantezie" alt="visitor badge" /> </p>
