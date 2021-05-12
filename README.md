@@ -29,7 +29,11 @@
 ![Mithlesh's github stats](https://github-readme-stats.vercel.app/api?username=mithleshfantezie&include_all_commits=true&hide=contribs)
 
 
+
+
 <br/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=mithleshfantezie)](https://github.com/ryo-ma/github-profile-trophy)
+
 <br/>
 <br/>
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=mithleshfantezie.mithleshfantezie" alt="visitor badge" /> </p>
