@@ -9,8 +9,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-- 🔭 I’m currently working as a Software Developer.
-- 🌱 I’m currently learning React Native.
+- 🔭 I’m currently working as a Software Engineer.
+<!-- - 🌱 I’m currently learning React Native. -->
 
 
 #### 📫 How to reach me:
