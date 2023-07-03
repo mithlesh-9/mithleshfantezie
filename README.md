@@ -24,12 +24,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 
-#### 📊 Stats
-
-![Mithlesh's github stats](https://github-readme-stats.vercel.app/api?username=mithleshfantezie&include_all_commits=true&hide=contribs)
-
-
-
 <br/>
 <br/>
 <br/>
